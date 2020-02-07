@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahtaigiiho.elenafloressoprano.com/sitemap.xml
